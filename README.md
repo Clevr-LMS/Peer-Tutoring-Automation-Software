@@ -9,6 +9,8 @@ The repository is organized into the following files:
 - `sendEmails.js`: Contains functions to send emails for various subjects.
 - `triggers.js`: Contains functions to create and delete triggers for automated email sending.
 - `sendEmailsTu.js`: Contains a specific function to send emails related to a specific topic.
+- `main.js`: Contains the main functions and setup for the entire script.
+
 
 ## Google Apps Script Functions
 
