@@ -1,4 +1,4 @@
-# Peer Tutoring Automation
+# Clevr - Peer Tutoring Automation LMS
 
 This repository contains Google Apps Script code for automating email notifications in a peer tutoring program. The scripts handle the sending of emails to students, parents, and counselors based on their subject-specific needs.
 
