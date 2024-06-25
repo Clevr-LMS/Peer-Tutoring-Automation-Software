@@ -21,7 +21,7 @@ The following functions are responsible for sending emails based on subject-spec
 - `sendENGEmails()`: Sends English-related emails.
 - `sendSSEmails()`: Sends Social Science-related emails.
 - `sendWLEmails()`: Sends World Language-related emails.
-- `sendEmailsTu()`: Sends emails for a specific topic.
+- `sendEmailsTu()`: Sends logistical emails to tutors with sign-up instructions, a registration form, and a tutoring honor code form.
 
 ### Trigger Functions
 
